@@ -1,4 +1,4 @@
-INPUT
+//INPUT
 #include <iostream>
 #include <vector>
 #include <climits>
@@ -71,7 +71,7 @@ int main() {
     return 0;
 }
 
-OUTPUT
+//OUTPUT
 Enter the number of coin denominations available: 4
 Enter the values of the coins:
 Coin 1: 1
